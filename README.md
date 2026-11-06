@@ -1,2 +1,4 @@
-# chem501-git-practice
-this is a repo
+# H1 Heading
+## H2 sub heading
+1. item
+2. item
